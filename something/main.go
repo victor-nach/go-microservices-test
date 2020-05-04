@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"something/some"
+	"github.com/victor-nach/go-microservices-test/something/some"
 )
 
 func main() {
